@@ -1,8 +1,29 @@
-# Xojo-Xanadu coming soon
+# Xojo-Xanadu  
 
 Making Xojo Database Apps Easier for Everyone, especially for FileMaker Developers.
 
-Xojo-Xanadu is a Xojo Web App where the App runs on Mac, Windows, Linux, or Raspberry Pi and users access the App using their Web Browser. Web App Deployment and Browsers Requirements: http://developer.xojo.com/system-requirements
+# Overview Video
+ 
+Coming soon after Xojo XDC 2016: http://www.xojo.com/xdc
+
+# Getting Started
+
+- Download and Install Xojo: http://www.xojo.com/download/?lang=en
+- Download MBS Plugin: https://www.monkeybreadsoftware.de/xojo/plugins.shtml
+- Copy the MBS Plugins into the Xojo Plugins Folder.
+- Launch Xojo.
+- Download the Xanadu Project and database.SQLite.
+- Open and Run the Project file with Xojo.
+- Once the App Compiles and Runs, the App will Launch and a Browser window will open.
+- Login with the user name 'hal' and password 'hal'.
+- The Contacts Page will show how the interface works.
+- The Other Page will show an on screen keypad and the HTMLViewerControl.
+
+We'll be blogging about Xanadu. Go to https://campsoftware.com and enter your email in the upper left corner so you can receive our blog posts in via email.
+
+# Why Xanadu?
+
+Xojo-Xanadu is a Xojo Web App where the App runs on Mac, Windows, Linux, or Raspberry Pi and users access the App using their Web Browser. Web App Deployment and Browser Requirements: http://developer.xojo.com/system-requirements
 
 I've been developing with FileMaker and Xojo since the 90's. I love both platforms but the FileMaker price increases since version 13 has made FileMaker expensive to use, reducing its value. FileMaker based solutions also require users to purchase FileMaker software. Xojo, on the other hand, is priced very fairly and since Xojo is Royalty Free, only the developer purchases Xojo!
 
@@ -14,9 +35,12 @@ Without Xojo-Xanadu, you would need to do something like the following: Create a
 
 Xojo-Xanadu is *meant* to take away as much of this pain as possible. Instead, you'd place your ListBoxes, TextFields, and other controls on the Web Page, and then tell Xanadu about the Table, ListBox, and Detail and then run ListLoad and Detail Load. Once that's set up you can add fields to your table and add controls to your Web Page with almost no code!
 
-Overview Video: coming soon
+# Xojo 
 
-Getting Started:
-- bullet points coming soon
+Xojo is free to evaluate for an unlimited amount of time so you can run and debug. Purchasing Xojo allows you to compile, deploy, and distribute your Apps. Since Xojo-Xanadu is a Web App, all you need is Xojo Web: https://www.xojo.com/store/ 
 
-Xojo is free to evaluate for an unlimited amount of time so you can run and debug. Purchasing Xojo allows you to compile, deploy, and distribute your Apps. Since Xojo-Xanadu is a Web App, all you need is Xojo Web: https://www.xojo.com/store/index.php 
+# MBS for Xojo ( Monkeybread Plugin )
+
+MBS for Xojo is an amazing plugin for Xojo. 
+
+https://www.monkeybreadsoftware.de/xojo/plugins.shtml
