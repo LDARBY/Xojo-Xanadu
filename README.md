@@ -39,8 +39,8 @@ Xojo-Xanadu is *meant* to take away as much of this pain as possible. Instead, y
 
 Xojo is free to evaluate for an unlimited amount of time so you can run and debug. Purchasing Xojo allows you to compile, deploy, and distribute your Apps. Since Xojo-Xanadu is a Web App, all you need is Xojo Web: https://www.xojo.com/store/ 
 
-# MBS for Xojo ( Monkeybread Plugin )
+# Monkeybread MBS Plugin for Xojo and Monkeybread Web Starter Kit
 
-MBS for Xojo is an amazing plugin for Xojo. 
+Monkeybread's MBS Plugin for Xojo is an amazing plugin for Xojo with over 59,000 functions: http://monkeybreadsoftware.de/xojo/
 
-https://www.monkeybreadsoftware.de/xojo/plugins.shtml
+Monkeybread also has a 'Web Starter Kit' which has a ton of code to help you get started. Try out the demo: http://monkeybreadsoftware.de/xojo/WebStarterKit/
