@@ -43,4 +43,4 @@ Xojo is free to evaluate for an unlimited amount of time so you can run and debu
 
 Monkeybread's MBS Plugin for Xojo is an amazing plugin for Xojo with over 59,000 functions: http://monkeybreadsoftware.de/xojo/
 
-Monkeybread also has a 'Web Starter Kit' which has a ton of code to help you get started. Try out the demo: http://monkeybreadsoftware.de/xojo/WebStarterKit/
+Monkeybread also has a 'Web Starter Kit' which has a ton of code to help you get started with Xojo Web Apps. Try out the demo: http://monkeybreadsoftware.de/xojo/WebStarterKit/
