@@ -19,7 +19,7 @@ Coming soon after Xojo XDC 2016: http://www.xojo.com/xdc
 - The Contacts Page will show how the interface works.
 - The Other Page will show an on screen keypad and the HTMLViewerControl.
 
-We'll be blogging about Xanadu. Go to https://campsoftware.com and enter your email in the upper left corner so you can receive our blog posts in via email.
+We'll be blogging about Xanadu. Sign up to receive our blog posts in your email: http://campsoftware.com/contact/
 
 # Why Xanadu?
 
