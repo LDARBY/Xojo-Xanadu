@@ -12,7 +12,7 @@ Coming soon after Xojo XDC 2016: http://www.xojo.com/xdc
 - Download MBS Plugin: https://www.monkeybreadsoftware.de/xojo/plugins.shtml
 - Copy the MBS Plugins into the Xojo Plugins Folder.
 - Launch Xojo.
-- Download the Xanadu Project and database.SQLite.
+- Download the Xanadu Project and 'database.SQLite'. Unzip 'database.SQLite'.
 - Open and Run the Project file with Xojo.
 - Once the App Compiles and Runs, the App will Launch and a Browser window will open.
 - Login with the user name 'hal' and password 'hal'.
