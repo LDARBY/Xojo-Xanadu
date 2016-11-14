@@ -1,20 +1,21 @@
 # Xojo-Xanadu  
 
-Making Xojo Database Apps Easier for Everyone, especially for FileMaker Developers.
+Xanadu makes developing Xojo database driven Web Apps easier for everyone, especially for FileMaker developers.
+
+Xojo Web Apps are amazing. They can run on Mac, Windows, Linux, or Raspberry Pi as standalone apps. They can also run as cgi apps on many web hosting providers, but we prefer standalone apps. People can access the Web App use their browser on just about any device.
 
 # More info, Overview Video, and Download
 
 We've moved the download to our website:
 http://campsoftware.com/products/xanadu-for-xojo.php
 
-# What is Xanadu?
+# How does Xanadu make it easier?
 
-Xanadu is a Xojo Web App where the App runs on Mac, Windows, Linux, or Raspberry Pi and users access the App using their Web Browser. Web App Deployment and Browser Requirements: http://developer.xojo.com/system-requirements
+One example is adding a database field to an existing Web Page. With Xanadu, all you need to do is add a control, like a TextField, to the page and set its Table Name and Column Name. When Xanadu loads the fields, it looks at the page and makes a list of all of the controls, finds the data, and then sets the fields. When the person clicks out of the field, Xanadu is told to save the data. There's no longer a need to write code to simply set or save data in the fields! 
 
-I've been developing with FileMaker and Xojo since the 90's. I love both platforms but the FileMaker price increases since version 13 has made FileMaker expensive to use, reducing its value. FileMaker based solutions also require users to purchase FileMaker software. Xojo, on the other hand, is priced very fairly and since Xojo is Royalty Free, only the developer purchases Xojo!
+Without Xanadu, you'd have to write a ton a code. You would have to manually make a list of all the fields, query the database, and then write code to set each control on the page. Next comes saving the data which would need more code written to get the value of each control, then update the database with the data. That’s not a huge amount of work, but multiply that out by 20 or more controls. Let's now assume that all the code is up and running and you need to add a few fields to the page. That means updating the code to load and save each field. Xanadu does all that work for you!
+# Why do I need Xanadu?
 
-That said, I find that it takes longer to work with databases in Xojo than it does with FileMaker. The goal of Xanadu is to reduce the time that it takes to develop database driven apps with Xojo. 
+I've been developing with FileMaker and Xojo since the 1990's. I love both platforms but the FileMaker price increases and licensing changes in versions 13, 14, and 15 have made FileMaker Pro and FileMaker Server extremely expensive, which as drastically reduced the value of FileMaker.
 
-FileMaker makes our life easy and as a FileMaker Developer, you could go years, if not ever, using SQL since you can just create and place fields on a FileMaker Layout without writing any code. In Xojo and other systems like php/mysql you have to code. 
-
-Without Xanadu, you would need to do something like the following: Create a Web Page and place ListBoxes, TextFields, and other control types on the Web Page. Controls have no inherent connection to a database. They are simply controls that can show data. To put data in it from a database, you'd perform a SQL statement like 'SELECT * FROM Contacts' which would return a set of records. For each record, you'd add a Listbox Row and place the record data in the Row. When a user clicks on a ListBox Row, you would extract the record ID from the RowTag, perform a SQL statement like 'SELECT * FROM Contacts WHERE UUID = "theUUID"'. Then you set would each control using the data from the record field. That's not a big deal, but when you get to 20 fields on your eighth window, it becomes very annoying.
+Xojo's pricing is developer based and Apps built with Xojo are royalty free. That means that the Xojo developer buys Xojo and users of the developed App don't need to purchase Xojo.
