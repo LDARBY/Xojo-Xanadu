@@ -2,26 +2,9 @@
 
 Making Xojo Database Apps Easier for Everyone, especially for FileMaker Developers.
 
-# Overview Video
- 
-Coming soon after Xojo XDC 2016: http://www.xojo.com/xdc
+More information including videos: http://campsoftware.com/products/xanadu-for-xojo.php
 
-# Getting Started
-
-- Download and Install Xojo: http://www.xojo.com/download/?lang=en
-- Download MBS Plugin: https://www.monkeybreadsoftware.de/xojo/plugins.shtml
-- Copy the MBS Plugins into the Xojo Plugins Folder.
-- Launch Xojo.
-- Download the Xanadu Project and 'database.SQLite'.
-- Open and Run the Project file with Xojo.
-- Once the App Compiles and Runs, the App will Launch and a Browser window will open.
-- Login with the user name 'hal' and password 'hal'.
-- The Contacts Page will show how the interface works.
-- The Other Page will show an on screen keypad and the HTMLViewerControl.
-
-We'll be blogging about Xanadu. Sign up to receive our blog posts in your email: http://campsoftware.com/contact/
-
-# Why Xanadu?
+# What is Xanadu?
 
 Xanadu is a Xojo Web App where the App runs on Mac, Windows, Linux, or Raspberry Pi and users access the App using their Web Browser. Web App Deployment and Browser Requirements: http://developer.xojo.com/system-requirements
 
