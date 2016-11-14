@@ -2,7 +2,10 @@
 
 Making Xojo Database Apps Easier for Everyone, especially for FileMaker Developers.
 
-More information about Xanadu including videos: http://campsoftware.com/products/xanadu-for-xojo.php
+# More info, Overview Video, and Download
+
+We've moved the download to our website:
+http://campsoftware.com/products/xanadu-for-xojo.php
 
 # What is Xanadu?
 
@@ -15,27 +18,3 @@ That said, I find that it takes longer to work with databases in Xojo than it do
 FileMaker makes our life easy and as a FileMaker Developer, you could go years, if not ever, using SQL since you can just create and place fields on a FileMaker Layout without writing any code. In Xojo and other systems like php/mysql you have to code. 
 
 Without Xanadu, you would need to do something like the following: Create a Web Page and place ListBoxes, TextFields, and other control types on the Web Page. Controls have no inherent connection to a database. They are simply controls that can show data. To put data in it from a database, you'd perform a SQL statement like 'SELECT * FROM Contacts' which would return a set of records. For each record, you'd add a Listbox Row and place the record data in the Row. When a user clicks on a ListBox Row, you would extract the record ID from the RowTag, perform a SQL statement like 'SELECT * FROM Contacts WHERE UUID = "theUUID"'. Then you set would each control using the data from the record field. That's not a big deal, but when you get to 20 fields on your eighth window, it becomes very annoying.
-
-# How does Xanadu work?
-
-Xanadu is *meant* to take away as much of this pain as possible. You place your ListBoxes, TextFields, and other controls on the Web Page, and then tell Xanadu a bit about the Table, ListBox, where the Detail controls are, and then run ListLoad and Detail Load. Once that's set up you can add fields to your table and add controls to your Web Page with almost no code!
-
-The Xanandu project requires Xojo and the Monkeybread MBS Plugin.
-
-# Where can I learn more about Xanadu? 
-
-More information about Xanadu including videos: http://campsoftware.com/products/xanadu-for-xojo.php
-
-# Xojo
-
-We love the Xojo platform. Not only is the development environment very affordable, but it's also powerful, easy to use, and the Xojo Team is very accessible. Time after time, Xojo has responded to new features and bug fixes in a quick and open fashion. It's a pleasure to work with Xojo! 
-
-Xojo is free to evaluate for an unlimited amount of time so you can run and debug. Purchasing Xojo allows you to compile, deploy, and distribute your Apps. Since Xanadu is a Web App, all you need is Xojo Web: https://www.xojo.com/store/ 
-
-# Monkeybread MBS Plugin for Xojo and Monkeybread Web Starter Kit
-
-Monkeybread has been creating plugins for Xojo for as long as I can remember. 
-
-Monkeybread's MBS Plugin for Xojo is an amazing plugin for Xojo with over 59,000 functions: http://monkeybreadsoftware.de/xojo/
-
-Monkeybread also has a 'Web Starter Kit' which has a ton of code to help you get started with Xojo Web Apps. Try out the demo: http://monkeybreadsoftware.de/xojo/WebStarterKit/
