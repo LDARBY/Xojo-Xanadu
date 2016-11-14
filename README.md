@@ -2,7 +2,7 @@
 
 Making Xojo Database Apps Easier for Everyone, especially for FileMaker Developers.
 
-More information including videos: http://campsoftware.com/products/xanadu-for-xojo.php
+More information about Xanadu including videos: http://campsoftware.com/products/xanadu-for-xojo.php
 
 # What is Xanadu?
 
@@ -22,7 +22,11 @@ Xanadu is *meant* to take away as much of this pain as possible. You place your 
 
 The Xanandu project requires Xojo and the Monkeybread MBS Plugin.
 
-# Xojo 
+# Where can I learn more about Xanadu? 
+
+More information about Xanadu including videos: http://campsoftware.com/products/xanadu-for-xojo.php
+
+# Xojo
 
 We love the Xojo platform. Not only is the development environment very affordable, but it's also powerful, easy to use, and the Xojo Team is very accessible. Time after time, Xojo has responded to new features and bug fixes in a quick and open fashion. It's a pleasure to work with Xojo! 
 
@@ -30,7 +34,7 @@ Xojo is free to evaluate for an unlimited amount of time so you can run and debu
 
 # Monkeybread MBS Plugin for Xojo and Monkeybread Web Starter Kit
 
-Monkeybread has been creating software for Xojo for as long as I can remember. The MBS Plugins is their primary product, but the Web Starter Kit super useful too.
+Monkeybread has been creating plugins for Xojo for as long as I can remember. 
 
 Monkeybread's MBS Plugin for Xojo is an amazing plugin for Xojo with over 59,000 functions: http://monkeybreadsoftware.de/xojo/
 
